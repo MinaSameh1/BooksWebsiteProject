@@ -1,0 +1,33 @@
+
+-- Generated usign python. 
+INSERT INTO genres(genreName) VALUES('Fiction');
+INSERT INTO genres(genreName) VALUES('Fantasy');
+INSERT INTO genres(genreName) VALUES('Young Adult');
+INSERT INTO genres(genreName) VALUES('Romance');
+INSERT INTO genres(genreName) VALUES('Novels');
+INSERT INTO genres(genreName) VALUES('Classics');
+INSERT INTO genres(genreName) VALUES('Literature');
+INSERT INTO genres(genreName) VALUES('Contemporary');
+INSERT INTO genres(genreName) VALUES('Historical');
+INSERT INTO genres(genreName) VALUES('Audio book');
+INSERT INTO genres(genreName) VALUES('Adventure Adult');
+INSERT INTO genres(genreName) VALUES('Historical Fiction');
+INSERT INTO genres(genreName) VALUES('Mystery');
+INSERT INTO genres(genreName) VALUES('Science Fiction');
+INSERT INTO genres(genreName) VALUES('Cultural');
+INSERT INTO genres(genreName) VALUES('Paranormal');
+INSERT INTO genres(genreName) VALUES('Thriller');
+INSERT INTO genres(genreName) VALUES('Magic');
+INSERT INTO genres(genreName) VALUES('Childrens');
+INSERT INTO genres(genreName) VALUES('Urban Fantasy');
+INSERT INTO genres(genreName) VALUES('Drama');
+INSERT INTO genres(genreName) VALUES('Science Fiction Fantasy');
+INSERT INTO genres(genreName) VALUES('European');
+INSERT INTO genres(genreName) VALUES('Literature');
+INSERT INTO genres(genreName) VALUES('Adult Fiction');
+INSERT INTO genres(genreName) VALUES('Supernatural');
+INSERT INTO genres(genreName) VALUES('Teen');
+INSERT INTO genres(genreName) VALUES('Nonfiction');
+INSERT INTO genres(genreName) VALUES('Literary Fiction');
+INSERT INTO genres(genreName) VALUES('Paranormal Romance');
+INSERT INTO genres(genreName) VALUES('Gothic');
